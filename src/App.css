@@ -1,0 +1,31 @@
+body{
+  
+    margin: 0;
+}
+
+
+.spinner{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.headingUser{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.field{
+    padding: 5px;
+}
+
+.p-highlight{
+    background-color: rgb(201, 200, 200) !important;
+    color: black;
+}
